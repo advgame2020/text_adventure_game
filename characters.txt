@@ -1,0 +1,36 @@
+@
+name			#Claus#
+apperance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes, he used to be quite fat.#
+question		#How is it called the first reindeer of min- Santa Claus?#
+option_1		#Rudolf#
+option_2		#Lainer#
+option_3		#Mandonf#
+option_4		#George#
+correct_answer		#1#
+win_msg			#Good job, son. But, this year the world is going to miss Christmas#
+lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
+author			#Nicolab#
+@
+name			#Prof. Cheese#
+apperance		#He's a fit good looking man, he's washing his hands with reusable wipes.#
+question		#What famous celebrity was born on the same day the first version of Python was released?#
+option_1		#Dylan O'Brien#
+option_2		#Emma Roberts#
+option_3		#Taylor Swift#
+option_4		#Ashley Park#
+correct_answer		#3#
+win_msg			#Correct!! you followed my lessons, didn't you?#
+lose_msg		#Wrong!... but here's a wipe for your hands!#
+author			#Nicolab#
+@
+name			#andsxxxxx#
+apperance		#she's 22 and 5'4 tall. she loves coffee as much as she hates carrots. #
+question		#What is the color of the moon #
+option_1		#Orange#
+option_2		#324234rewds243wcd#
+option_3		#Yellow#
+option_4		#White#
+correct_answer		#3#
+win_msg			#Fantastic! That was a hard question but you were able to get it correctly! Good job hooman#
+lose_msg		#Merp#
+author			#Andeeù#
